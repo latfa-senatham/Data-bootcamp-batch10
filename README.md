@@ -8,3 +8,9 @@ My data science and analytics projects
 3. R programming
 4. Dashboard Looker Studio
 5. Linear Regression Model using caret
+
+## Contact Me
+reach out to me at teerungrat@gmail.com
+
+## Image
+![Working](
