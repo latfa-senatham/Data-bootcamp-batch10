@@ -1,6 +1,6 @@
 from random import choice
 
-def pao_ying_chub():
+def pao_ying_chuub():
 
     print("Let's play game!")
 
